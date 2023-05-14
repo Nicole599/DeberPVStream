@@ -66,10 +66,7 @@
                               </Group>
                               <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
                           </Group>
-                          <Group type="102" alignment="1" attributes="0">
-                              <EmptySpace min="-2" pref="191" max="-2" attributes="0"/>
-                              <Component id="CargarDatos" min="-2" pref="122" max="-2" attributes="0"/>
-                          </Group>
+                          <Component id="CargarDatos" alignment="1" min="-2" pref="122" max="-2" attributes="0"/>
                           <Component id="TablaP" min="-2" pref="591" max="-2" attributes="0"/>
                       </Group>
                   </Group>
